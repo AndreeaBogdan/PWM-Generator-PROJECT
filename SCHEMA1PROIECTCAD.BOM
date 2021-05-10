@@ -1,0 +1,27 @@
+PWM Generator  Revised: Friday, May 22, 2020
+Bogdan Andreea Laura          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials            May 22,2020      19:44:18	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	50n	DigiKey	AVX Corporation	CAP CER 0.05UF 50V X7R 1206
+2	1	Rpot1	10k	DigiKey	Bourns Inc.	POT 10K OHM 2W WIREWOUND LINEAR
+3	1	Rpot2	10k	DigiKey	Bourns Inc	POT 10K OHM 2W WIREWOUND LINEAR
+4	1	R1	55k	DigiKey	Vishay Dale	RES 55K OHM 1/4W 1% AXIAL
+5	1	R2	35k	DigiKey	Vishay Dale	RES 35K OHM 1/8W 1% AXIAL
+6	1	R3	9k	DigiKey	Vishay Dale	RES 9K OHM 1/4W 1% AXIAL
+7	1	R4	2k	DigiKey	Stackpole Electronics Inc	RES 2K OHM 1/4W 1% AXIAL
+8	2	R5,R6	16.6k	DigiKey	Vishay Dale	RES 16.6K OHM 1/4W 1% AXIAL
+9	1	R7	5k	DigiKey	Vishay Dale	RES 5K OHM 1/4W 1% AXIAL
+10	1	R8	10k	DigiKey	Yageo	RES 10K OHM 1/4W 1% AXIAL
+11	1	R9	3.3k	DigiKey	Stackpole Electronics Inc	RES 3.3K OHM 1/4W 1% AXIAL
+12	1	U4	TL082	DigiKey	Texas Instruments	
+13	1	U5	TA75557P	UTsource	Toshiba	
